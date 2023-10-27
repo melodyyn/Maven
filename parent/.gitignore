@@ -1,0 +1,30 @@
+# Maven
+target/
+log/
+metastore_db/
+out/
+spark-warehouse/
+
+# Package files
+*.jar
+
+# Java
+## Compiled class file
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+.metadata/
+.settings/
+tmp/
+*.tmp
+*.bak
+*.tar.gz
+*.zip
+*.swp
+*~.nib
+.project
+.classpath
+.loadpath
